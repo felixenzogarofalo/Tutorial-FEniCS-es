@@ -10,10 +10,6 @@ docopt==0.6.2
 entrypoints==0.3
 fastcache==1.1.0
 fenics==2019.1.0
-fenics-dijitso==2019.1.0
-fenics-ffc==2019.1.0
-fenics-fiat==2019.1.0
-fenics-ufl==2019.1.0
 gmpy2==2.1.0b1
 ipykernel==5.1.2
 ipython==7.8.0
