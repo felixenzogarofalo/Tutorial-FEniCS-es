@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/felixenzogarofalo/Tutorial-de-FEniCS-en-espa-ol/master)
 
-[Fundamentos de FEniCS](https://mybinder.org/v2/gh/felixenzogarofalo/Tutorial-de-FEniCS-en-espa-ol/master?urlpath=https%3A%2F%2Fgithub.com%2Ffelixenzogarofalo%2FTutorial-de-FEniCS-en-espa-ol%2Fblob%2Fmaster%2F00%2520Fundamentos.ipynb)
+[Fundamentos de FEniCS](https://hub.gke.mybinder.org/user/felixenzogarofa-nics-en-espa-ol-59d8srn1/notebooks/00%20Fundamentos.ipynb)
 
 
 # Tutorial de FEniCS en español
