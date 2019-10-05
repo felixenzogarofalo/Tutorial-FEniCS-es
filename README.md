@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/felixenzogarofalo/Tutorial-de-FEniCS-en-espa-ol/master)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/felixenzogarofalo/Tutorial-FEniCS-es/master)
 
 # Tutorial de FEniCS en español
 Este repositorio pretende crear Notebooks de Jupyter traducidos al español a partir del Tutorial de FEniCS. Para poder correr los cuadernos, debes iniciar el ambiente de ejecución, presionando el botón con la palabra "launch binder" que se encuentra al inicio de esta página.
