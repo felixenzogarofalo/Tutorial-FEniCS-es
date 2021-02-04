@@ -1,0 +1,8 @@
+title: "Tutorial FEniCS en español"
+description: "El primer tutorial traducido, "00 Fundamentos", es una introducción a la resolución de Ecuaciones Diferenciales Parciales (EDP) utilizando su formulación débil, o variacional. Empezamos solucionando una de las EDPs más simples, la ecuación de Poisson. Luego de plantear la formulación matemática, exploraremos paso a paso como implementar la solución utilizando FEniCS."
+branch: "master"
+main: "00 Fundamentos.ipynb"
+tags:
+  - FEniCS
+  - Ecuaciones Diferenciales Parciales
+  - Elementos Finitos
